@@ -1,4 +1,5 @@
-# 👨🏼‍💻 Diogo Campos  
+# 👨🏼‍💻 Diogo Campos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="Saudacao animada" />
+  
 ### 📊 Data Analyst | Power BI | SQL | Data-Driven Insights  
 
 <p align="center">

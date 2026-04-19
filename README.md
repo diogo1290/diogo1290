@@ -24,12 +24,15 @@ Atualmente cursando Ciência de Dados.
 </p>
 
 ---
-
 ### 📂 Projetos
-- 📊 Dashboard de Vendas  
-- 📈 Análise Exploratória de Dados  
-- 🔍 Indicadores de Performance (KPIs)  
 
+| Projetos | Descrição | Link |
+|----------|-----------|------|
+| 📊 Performance Comercial — Vendas de Livros | Dashboard em Power BI com 2 abas: **Visão Geral**, com KPIs de Receita Bruta, Líquida, Lucro, Margem e Ticket Médio, análise temporal, desempenho mensal e ranking por gênero; e **Detalhamento**, com mix de produtos por editora, autor e livro, performance por região, formato, meio de pagamento e canal de venda. | [Acessar aqui](https://github.com/diogo1290/Dashboard-Performance-Comercial-Vendas-de-Livros) |) |
+
+- 📊 Criação de Dashboard e Manutenção  
+- 📈 Análise Exploratória de Dados  
+- 🔍 Indicadores de Performance (KPIs)
 ---
 
 ### 📬 Contato

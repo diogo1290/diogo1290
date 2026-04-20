@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Sobre mim
-Analista de Dados com +4 anos de experiência na MBRF, especializado em transformar dados em insights estratégicos.  
+Analista de Dados com +4 anos de experiência na área de BI, especializado em transformar dados em insights estratégicos.  
 Atuo na criação, manutenção e evolução de dashboards em Power BI, apoiando decisões orientadas por dados.  
 Atualmente cursando Ciência de Dados.
 

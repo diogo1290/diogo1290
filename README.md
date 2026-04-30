@@ -3,7 +3,7 @@
 ### 📊 Data Analyst | Power BI | SQL | Azure Databricks | Data-Driven Insights
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Data+Analyst;Power+BI+Specialist;SQL+Lover;Transformando+dados+em+decisão🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Data+Analyst;Power+BI+Specialist;SQL+Lover;Azure+Databricks+%7C+Delta+Lake;Transformando+dados+em+decisão🚀" />
 </p>
 
 ---
@@ -16,15 +16,15 @@
   </a>
 </p>
 
-> Acesse meu portfólio completo com projetos, serviços e contato:  
+> Acesse meu portfólio completo com projetos, serviços e contato:
 > 🔗 **[diogoportfolio.lovable.app](https://diogoportfolio.lovable.app)**
 
 ---
 
 ## 🧠 Sobre mim
 
-Analista de BI com +4 anos de experiência transformando dados em decisões estratégicas.  
-Atuo na criação, manutenção e evolução de dashboards em Power BI, com foco em KPIs e inteligência de Customer Service.  
+Analista de BI com +4 anos de experiência transformando dados em decisões estratégicas.
+Atuo na criação, manutenção e evolução de dashboards em Power BI, com foco em KPIs e inteligência de Customer Service.
 Atualmente Customer Intelligence Analyst na **MBRF S/A** e pós-graduando em **BI & Big Data** pela Anhanguera.
 
 ---
@@ -36,19 +36,23 @@ Atualmente Customer Intelligence Analyst na **MBRF S/A** e pós-graduando em **B
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Projetos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| 📊 Performance Comercial — Vendas de Livros | Dashboard Power BI com KPIs de Receita, Margem, Lucro e Ticket Médio. Análise temporal, ranking por gênero, performance por região e canal de venda. | [Acessar](https://github.com/diogo1290/Dashboard-Performance-Comercial-Vendas-de-Livros) |
+| Projeto | Stack | Descrição | Link |
+|---------|-------|-----------|------|
+| 📊 **Dashboard de Canais Digitais** | Python · Databricks · Delta Lake · SQL · DAX · Power BI | Pipeline end-to-end com 500K registros. Star Schema com 5 dimensões. Análise de ROAS, CTR, funil de conversão e segmentação regional por canal digital. | [Acesse Aqui](https://github.com/diogo1290/Dashboard-Marketing) |
+| 📚 **Performance Comercial — Vendas de Livros** | Power BI · DAX · Modelagem | Dashboard com KPIs de Receita, Margem, Lucro e Ticket Médio. Análise temporal, ranking por gênero, performance por região e canal de venda. | [Acesse Aqui](https://github.com/diogo1290/Dashboard-Performance-Comercial-Vendas-de-Livros) |
 
-> 🔎 Veja todos os projetos com preview visual em:  
+> 🔎 Veja todos os projetos com preview visual em:
 > 👉 **[diogoportfolio.lovable.app/projetos](https://diogoportfolio.lovable.app/projetos)**
 
 ---
